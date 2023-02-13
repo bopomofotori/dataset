@@ -1,0 +1,24 @@
+{
+   "breakfast": [
+        {
+            "ingredient": "avocado",
+            "amount": 8,
+            "color": "rgb(131,189,92)"
+        },
+        {
+            "ingredient": "salmon",
+            "amount": 5,
+            "color": "rgb(247,92,36)"
+        },    
+        {
+            "ingredient": "cheese",
+            "amount": 3,
+            "color": "rgb(245,249,133)"
+        },
+        {
+            "ingredient": "coffee",
+            "amount": 14,
+            "color": "rgb(189,164,144)"
+        }
+    ]
+}
